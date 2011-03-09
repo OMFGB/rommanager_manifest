@@ -1,4 +1,3 @@
-
 {
     version: 1,
     donate: "http://forum.xda-developers.com/donatetome.php?u=3286081",
@@ -6,9 +5,9 @@
     [
 	{
         name: "OMFGB 1.1.0",
-        summary: "Android 2.3. Open Source Win",
+        summary: "Custom Gingerbread build.",
         device: "supersonic",
-        product: "OMGB",
+        product: "OMFGB",
         incremental: 3,
 	url: "http://r2doesinc.bitsurge.net/OMFGB-1.1.0_evo.zip",
 	addons:
@@ -25,9 +24,9 @@
     	
 	{
         name: "OMFGB 1.1.0",
-        summary: "Android 2.3. Open Source Win",
+        summary: "Custom Gingerbread build.",
         device: "inc",
-        product: "OMGB",
+        product: "OMFGB",
         incremental: 3,
 	url: "http://r2doesinc.bitsurge.net/OMFGB-1.1.0_inc.zip",
 	addons:
@@ -44,9 +43,9 @@
 	
 	{
         name: "OMFGB 1.1.1",
-        summary: "Android 2.3. Open Source Win",
+        summary: "Custom Gingerbread build.",
         device: "supersonic",
-        product: "OMGB",
+        product: "OMFGB",
         incremental: 4,
 	url: "http://droid-themes.com/Downloads/OMFGB/OMFGB_supersonic-1.1.1.zip",
 	addons:
@@ -63,9 +62,9 @@
 	
 	{
         name: "OMFGB 1.1.1",
-        summary: "Android 2.3. Open Source Win",
+        summary: "Custom Gingerbread build.",
         device: "inc",
-        product: "OMGB",
+        product: "OMFGB",
         incremental: 4,
 	url: "http://droid-themes.com/Downloads/OMFGB/OMFGB_inc-1.1.1.zip",
 	addons:
