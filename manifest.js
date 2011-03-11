@@ -80,11 +80,11 @@
 	},
           {
            name: "Jdkernel Gingerbread #4",
-           summary: "2.6.27 kernel by jdkoreclipse.",
+           summary: "2.6.37 kernel by jdkoreclipse.",
             device: "inc",
            product: "OMFGB",
            incremental: 4,
-url:"http://www.jdkoreclipse.com/files/jdkernel_4_inc.zip",
+url:"http://www.jdkoreclipse.com/files/jdkernel_4_inc.zip"
                 }
 	]
 	},
