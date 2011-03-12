@@ -85,14 +85,14 @@
         device: "inc",
         product: "OMFGB",
         incremental: 4,
-	url: "mirror.jdkoreclipse.com/rom/blur.zip",
+	url: "mirror.jdkoreclipse.net/rom/blur.zip",
 	addons:
 	[
 	{
 		name: "Kernel (Mandatory d/l)",
 		urls:
 		[
-		"http://mirror.jdkoreclipse.com/rom/invisiblek.zip"
+		"http://mirror.jdkoreclipse.net/rom/invisiblek.zip"
 		]
 	}	
 	]
@@ -104,14 +104,14 @@
         device: "inc",
         product: "OMFGB",
         incremental: 4,
-	url: "mirror.jdkoreclipse.com/rom/ginger2.4_inc_4.zip",
+	url: "mirror.jdkoreclipse.net/rom/ginger2.4_inc_4.zip",
 	addons:
 	[
 	{
 		name: "Jdkernel #4",
 		urls:
 		[
-		"http://mirror.jdkoreclipse.com/kernel/jdkernel_4_inc.zip"
+		"http://mirror.jdkoreclipse.net/kernel/jdkernel_4_inc.zip"
 		]
 	}	
 	]
