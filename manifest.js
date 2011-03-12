@@ -85,7 +85,7 @@
         device: "inc",
         product: "OMFGB",
         incremental: 4,
-	url: "mirror.jdkoreclipse.net/rom/blur.zip",
+	url: "http://mirror.jdkoreclipse.net/rom/blur.zip",
 	addons:
 	[
 	{
@@ -104,7 +104,7 @@
         device: "inc",
         product: "OMFGB",
         incremental: 4,
-	url: "mirror.jdkoreclipse.net/rom/ginger2.4_inc_4.zip",
+	url: "http://mirror.jdkoreclipse.net/rom/ginger2.4_inc_4.zip",
 	addons:
 	[
 	{
