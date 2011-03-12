@@ -3,6 +3,26 @@
     donate: "http://forum.xda-developers.com/donatetome.php?u=3286081",
     roms:
     [
+
+{
+        name: "Ninjablur for HTC Incredible",
+        summary: "For testing only!.",
+        device: "inc",
+        product: "OMFGB",
+        incremental: 3,
+	url: "mirror.jdkoreclipse.com/rom/blur.zip",
+	addons:
+	[
+	{
+		name: "Kernel (Mandatory d/l)",
+		urls:
+		[
+		"http://mirror.jdkoreclipse.com/rom/invisiblek.zip"
+		]
+	}	
+	]
+    	},
+
 	{
         name: "OMFGB 1.1.0",
         summary: "Custom Gingerbread build.",
