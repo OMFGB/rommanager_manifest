@@ -4,7 +4,7 @@
     roms:
     [
 
-	{
+{
         name: "OMFGB 1.1.0",
         summary: "Custom Gingerbread build.",
         device: "supersonic",
@@ -23,7 +23,7 @@
 	]
     	},
     	
-	{
+{
         name: "OMFGB 1.1.0",
         summary: "Custom Gingerbread build.",
         device: "inc",
@@ -41,8 +41,27 @@
 	}
 	]
 	},	
-	
+
+{
+        name: "OMGB 1.0.0",
+        summary: "Stock Gingerbread build.",
+        device: "inc",
+        product: "OMGB",
+        incremental: ,
+	url: "http://r2doesinc.bitsurge.net/OMGB_1.0.0-inc.zip",
+	addons:
+	[
 	{
+		name: "Google Apps",
+		urls:
+		[
+		"http://www.r2doesinc.bitsurge.net/GAPPS.zip"
+		]
+	}
+	]
+	},
+	
+{
         name: "OMFGB 1.1.1",
         summary: "Custom Gingerbread build.",
         device: "supersonic",
@@ -61,7 +80,7 @@
 	]
 	},
 	
-	{
+{
         name: "OMFGB 1.1.1",
         summary: "Custom Gingerbread build.",
         device: "inc",
@@ -117,9 +136,7 @@
 	]
     	},
 
-
-
-         {
+{
          name: "Jdkernel Gingerbread #4",
          summary: "2.6.37 kernel by jdkoreclipse",
          device: "inc",
