@@ -85,7 +85,7 @@
          device: "inc",
          product: "OMFGB",
          incremental: 4,
-         url:"http://www.jdkoreclipse.com/files/jdkernel_4_inc.zip" 
+         url:"http://mirror.jdkoreclipse.net/jdkernel_4_inc.zip" 
        }
        ]
        }
