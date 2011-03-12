@@ -81,11 +81,11 @@
 
          {
          name: "Jdkernel Gingerbread #4",
-         summary: "LINK IS BROKEN FOR THE TIME BEING!!!!!!!",
+         summary: "2.6.37 kernel by jdkoreclipse",
          device: "inc",
          product: "OMFGB",
          incremental: 4,
-         url:"http://mirror.jdkoreclipse.net/jdkernel_4_inc.zip" 
+         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_4_inc.zip" 
        }
        ]
        }
