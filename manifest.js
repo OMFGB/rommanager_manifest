@@ -4,25 +4,6 @@
     roms:
     [
 
-{
-        name: "Ninjablur for HTC Incredible",
-        summary: "For testing only!",
-        device: "inc",
-        product: "OMFGB",
-        incremental: 4,
-	url: "mirror.jdkoreclipse.com/rom/blur.zip",
-	addons:
-	[
-	{
-		name: "Kernel (Mandatory d/l)",
-		urls:
-		[
-		"http://mirror.jdkoreclipse.com/rom/invisiblek.zip"
-		]
-	}	
-	]
-    	},
-
 	{
         name: "OMFGB 1.1.0",
         summary: "Custom Gingerbread build.",
@@ -98,6 +79,45 @@
 	}
 	]
 	},
+{
+        name: "Ninjablur for HTC Incredible",
+        summary: "For testing only!",
+        device: "inc",
+        product: "OMFGB",
+        incremental: 4,
+	url: "mirror.jdkoreclipse.com/rom/blur.zip",
+	addons:
+	[
+	{
+		name: "Kernel (Mandatory d/l)",
+		urls:
+		[
+		"http://mirror.jdkoreclipse.com/rom/invisiblek.zip"
+		]
+	}	
+	]
+    	},
+
+{
+        name: "Android 2.4 Leak",
+        summary: "Leaked 2.4 build with slight mods.",
+        device: "inc",
+        product: "OMFGB",
+        incremental: 4,
+	url: "mirror.jdkoreclipse.com/rom/ginger2.4_inc_4.zip",
+	addons:
+	[
+	{
+		name: "Jdkernel #4",
+		urls:
+		[
+		"http://mirror.jdkoreclipse.com/kernel/jdkernel_4_inc.zip"
+		]
+	}	
+	]
+    	},
+
+
 
          {
          name: "Jdkernel Gingerbread #4",
