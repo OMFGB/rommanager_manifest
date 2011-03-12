@@ -6,10 +6,10 @@
 
 {
         name: "Ninjablur for HTC Incredible",
-        summary: "For testing only!.",
+        summary: "For testing only!",
         device: "inc",
         product: "OMFGB",
-        incremental: 3,
+        incremental: 4,
 	url: "mirror.jdkoreclipse.com/rom/blur.zip",
 	addons:
 	[
