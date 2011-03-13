@@ -80,6 +80,16 @@
 	}
 	]
 	},
+{
+         name: "Jdkernel Froyo #1",
+         summary: "2.6.37 Froyo kernel by jdkoreclipse",
+         device: "inc",
+         product: "jdkernel",
+         incremental: 5,
+         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip" 
+       }
+       ]
+       },
 	
 {
         name: "OMFGB 1.1.1",
@@ -103,7 +113,7 @@
         name: "Ninjablur for HTC Incredible",
         summary: "For testing only!",
         device: "inc",
-        product: "OMFGB",
+        product: "blurinc",
         incremental: 4,
 	url: "http://mirror.jdkoreclipse.net/rom/blur.zip",
 	addons:
@@ -122,7 +132,7 @@
         name: "Android 2.4 Leak",
         summary: "Leaked 2.4 build with slight mods.",
         device: "inc",
-        product: "OMFGB",
+        product: "ginger",
         incremental: 4,
 	url: "http://mirror.jdkoreclipse.net/rom/ginger2.4_inc_4.zip",
 	addons:
@@ -140,7 +150,7 @@
          name: "Jdkernel Gingerbread #4",
          summary: "2.6.37 kernel by jdkoreclipse",
          device: "inc",
-         product: "OMFGB",
+         product: "jdkernel",
          incremental: 5,
          url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_4_inc.zip" 
        }
