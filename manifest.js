@@ -61,7 +61,8 @@ urls:
 }
 ]
 },
-          } name: " Froyo Kernel #1",
+          } 
+name: " Froyo Kernel #1",
          summary: "2.6.37 froyo kernel by jdkoreclipse",
          device: "inc",
          product: "3",
