@@ -135,6 +135,17 @@
 	}	
 	]
     	},
+{
+         name: "Jdkernel FROYO #1",
+         summary: "2.6.37 FROYO kernel by jdkoreclipse",
+         device: "inc",
+         product: "OMFGB",
+         incremental: 4,
+         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip" 
+       }
+       ]
+       }
+
 
 {
          name: "Jdkernel Gingerbread #4",
