@@ -152,7 +152,7 @@
          summary: "2.6.37 kernel by jdkoreclipse",
          device: "inc",
          product: "OMFGB",
-         incremental: 4,
+         incremental: 5,
          url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_4_inc.zip" 
        }
        ]
