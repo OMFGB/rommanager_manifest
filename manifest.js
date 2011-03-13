@@ -94,7 +94,7 @@ addons:
 name: "Kernel (Mandatory d/l)",
 urls:
 [
-"http://mirror.jdkoreclipse.net/rom/invisiblek.zip"
+"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip"
 ]
 }
 ]
