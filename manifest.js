@@ -47,7 +47,7 @@
         summary: "Stock Gingerbread build.",
         device: "inc",
         product: "OMGB",
-        incremental: ,
+        incremental: 4 ,
 	url: "http://r2doesinc.bitsurge.net/OMGB_1.0.0-inc.zip",
 	addons:
 	[
