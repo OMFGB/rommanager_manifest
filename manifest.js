@@ -61,13 +61,11 @@ urls:
 }
 ]
 },
-
-{
          name: "Jdkernel Froyo #1",
          summary: "2.6.37 kernel by jdkoreclipse",
          device: "inc",
          product: "3",
-         incremental: 11,
+         incremental: 2,
          url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip"
        }
        ]
