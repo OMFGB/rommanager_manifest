@@ -144,7 +144,7 @@
          url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip" 
        }
        ]
-       }
+       },
 
 
 {
