@@ -127,7 +127,18 @@
          url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_4_inc.zip" 
        }
        ]
+       },
+
+{
+         name: "Jdkernel Froyo #1",
+         summary: "2.6.37 Froyo kernel by jdkoreclipse",
+         device: "inc",
+         product: "jdkernel",
+         incremental: 5,
+         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip" 
        }
+       ]
+       },
 
     ]
 }
