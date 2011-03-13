@@ -118,6 +118,18 @@ urls:
 }
 ]
      },
+
+{
+         name: "Jdkernel Froyo #1",
+         summary: "2.6.37 kernel by jdkoreclipse",
+         device: "inc",
+         product: "jdkernel",
+         incremental: 4,
+         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip"
+       }
+       ]
+       },
+
 {
          name: "Jdkernel Gingerbread #4",
          summary: "2.6.37 kernel by jdkoreclipse",
@@ -128,16 +140,6 @@ urls:
        }
        ]
        },
-{
-name: "Jdkernel Froyo #1",
-         summary: "2.6.37 Froyo kernel by jdkoreclipse",
-         device: "inc",
-         product: "jdkernel",
-         incremental: 4,
-         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip"
-       }
-       ]
-       } 
 
    ]
 }
