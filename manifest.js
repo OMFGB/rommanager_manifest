@@ -44,25 +44,6 @@
 	},	
 
 {
-        name: "OMGB 1.0.0",
-        summary: "Stock Gingerbread build.",
-        device: "inc",
-        product: "OMGB",
-        incremental: 4 ,
-	url: "http://r2doesinc.bitsurge.net/OMGB_1.0.0-inc.zip",
-	addons:
-	[
-	{
-		name: "Google Apps",
-		urls:
-		[
-		"http://www.r2doesinc.bitsurge.net/GAPPS.zip"
-		]
-	}
-	]
-	},
-	
-{
         name: "OMFGB 1.1.1",
         summary: "Custom Gingerbread build.",
         device: "supersonic",
