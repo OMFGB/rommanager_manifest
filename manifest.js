@@ -61,17 +61,6 @@ urls:
 }
 ]
 },
-          } 
-name: " Froyo Kernel #1",
-         summary: "2.6.37 froyo kernel by jdkoreclipse",
-         device: "inc",
-         product: "3",
-         incremental: 2,
-         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip"
-       }
-       ]
-       },
-
 
 {
         name: "OMFGB 1.1.1",
@@ -136,6 +125,16 @@ urls:
          product: "jdkernel",
          incremental: 4,
          url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_4_inc.zip"
+       }
+       ]
+       },
+{
+         name: "Jdkernel Froyo #1",
+         summary: "2.6.37 kernel by jdkoreclipse",
+         device: "inc",
+         product: "kernel",
+         incremental: 11,
+         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip"
        }
        ]
        },
