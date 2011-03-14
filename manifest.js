@@ -176,3 +176,5 @@
          incremental: 4,
          url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_froyo_inc.zip"
 }
+]
+}
