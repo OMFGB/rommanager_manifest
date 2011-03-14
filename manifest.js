@@ -119,6 +119,17 @@ urls:
      },
 
 {
+name: "Jdkernel Froyo/Sense 2.6.32",
+summary: "Heavily modded based off stock.",
+device: "inc",
+product: "inc",
+incremental: 4,
+url: "http://mirror.jdkoreclipse.net/kernel/jdkernel-2.6.32-%233.zip"
+}
+]
+},
+
+{
          name: "Jdkernel Gingerbread #4",
          summary: "2.6.37 kernel by jdkoreclipse",
          device: "inc",
