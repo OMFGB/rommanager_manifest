@@ -160,6 +160,15 @@
 },
 
 {
+         name: "Jdkernel Gingerbread #7 TESTING",
+         summary: "2.6.37.4 TESTING kernel by jdkoreclipse",
+         device: "inc",
+         product: "jdkernel",
+         incremental: 5,
+         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_7_inc.zip"
+},
+
+{
          name: "Jdkernel Gingerbread #6",
          summary: "2.6.37.4 kernel by jdkoreclipse",
          device: "inc",
