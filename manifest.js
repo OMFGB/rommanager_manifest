@@ -174,7 +174,7 @@
          device: "inc",
          product: "jdkernel",
          incremental: 5,
-         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_5_inc.zip"
+       url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_5_inc.zip"
 },
 
 {
