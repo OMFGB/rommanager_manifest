@@ -160,12 +160,21 @@
 },
 
 {
-         name: "Jdkernel Gingerbread #4",
-         summary: "2.6.37 kernel by jdkoreclipse",
+         name: "Jdkernel Gingerbread #6",
+         summary: "2.6.37.4 kernel by jdkoreclipse",
          device: "inc",
          product: "jdkernel",
          incremental: 5,
-         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_4_inc.zip"
+         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_6_inc.zip"
+},
+
+{
+         name: "Jdkernel Gingerbread #5,
+         summary: "2.6.37.3 kernel by jdkoreclipse",
+         device: "inc",
+         product: "jdkernel",
+         incremental: 5,
+         url:"http://mirror.jdkoreclipse.net/kernel/jdkernel_5_inc.zip"
 },
 
 {
