@@ -10,7 +10,7 @@
         device: "supersonic",
         product: "OMGB",
         incremental: 1,
-        url: "r2doesinc.bitsurge.net/OMGB_evo-1.1.0.zip",
+        url: "r2doesinc.bitsurge.net/OMGB_supersonic-1.1.0.zip",
         addons:
         [
         {
