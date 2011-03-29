@@ -23,7 +23,6 @@
         ]
 },
 
-
 {
         name: "OMGB 1.1.1",
         summary: "Stock Gingerbread build.",
@@ -42,7 +41,6 @@
         }
         ]
 },
-
 
 {
         name: "OMGB 1.1.1",
@@ -175,4 +173,6 @@
                    ]
         }
         ]
-},
+}
+]
+}
