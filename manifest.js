@@ -5,6 +5,65 @@
     [
 
 {
+        name: "OMGB 1.1.1",
+        summary: "Stock Gingerbread build.",
+        device: "desirec",
+        product: "OMGB",
+        incremental: 2,
+        url: "r2doesinc.bitsurge.net/OMGB_desirec-1.1.1.zip",
+        addons:
+        [
+        {
+              name: "Google Apps",
+              urls:
+                   [
+                   "http://www.r2doesinc.bitsurge.net/GAPPS.zip"
+                   ]
+        }
+        ]
+},
+
+
+{
+        name: "OMGB 1.1.1",
+        summary: "Stock Gingerbread build.",
+        device: "inc",
+        product: "OMGB",
+        incremental: 2,
+        url: "r2doesinc.bitsurge.net/OMGB_inc-1.1.1.zip",
+        addons:
+        [
+        {
+              name: "Google Apps",
+              urls:
+                   [
+                   "http://www.r2doesinc.bitsurge.net/GAPPS.zip"
+                   ]
+        }
+        ]
+},
+
+
+{
+        name: "OMGB 1.1.1",
+        summary: "Stock Gingerbread build.",
+        device: "supersonic",
+        product: "OMGB",
+        incremental: 2,
+        url: "r2doesinc.bitsurge.net/OMGB_supersonic-1.1.1.zip",
+        addons:
+        [
+        {
+              name: "Google Apps",
+              urls:
+                   [
+                   "http://www.r2doesinc.bitsurge.net/GAPPS.zip"
+                   ]
+        }
+        ]
+},
+
+{
         name: "OMGB 1.1.0",
         summary: "Stock Gingerbread build.",
         device: "supersonic",
@@ -42,7 +101,6 @@
         ]
 },
 
-
 {
         name: "OMFGB 1.1.0",
         summary: "Custom Gingerbread build.",
@@ -61,7 +119,6 @@
        }
        ]
 },
-
     
 {
         name: "OMFGB 1.1.0",
@@ -101,7 +158,6 @@
         ]
 },
 
-
 {
         name: "OMFGB 1.1.1",
         summary: "Custom Gingerbread build.",
@@ -120,5 +176,3 @@
         }
         ]
 },
-
-
