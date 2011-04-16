@@ -1,8 +1,8 @@
 {
     "version": "1",
-    "homepage": "http://t3hh4xx0r.com/"
+    "homepage": "http://t3hh4xx0r.com/",
     "donate": "http://forum.xda-developers.com/donatetome.php?u=3286081",
-    "roms": 
+    "roms":
     [
     {
         "name": "OMGB 1.1.1",
@@ -11,7 +11,7 @@
         "product": "OMGB",
         "incremental": "2",
         "url": "r2doesinc.bitsurge.net/OMGB_desirec-1.1.1.zip",
-        "addons": 
+        "addons":
         [
             {
             "name": "Google Apps",
@@ -26,7 +26,7 @@
         "product": "OMGB",
         "incremental": "2",
         "url": "r2doesinc.bitsurge.net/OMGB_inc-1.1.1.zip",
-        "addons": 
+        "addons":
         [
             {
             "name": "Google Apps",
@@ -41,7 +41,7 @@
         "product": "OMGB",
         "incremental": "2",
         "url": "r2doesinc.bitsurge.net/OMGB_supersonic-1.1.1.zip",
-        "addons": 
+        "addons":
         [
             {
             "name": "Google Apps",
@@ -56,7 +56,7 @@
         "product": "OMGB",
         "incremental": "1",
         "url": "r2doesinc.bitsurge.net/OMGB_supersonic-1.1.0.zip",
-        "addons": 
+        "addons":
         [
             {
             "name": "Google Apps",
@@ -71,7 +71,7 @@
         "product": "OMGB",
         "incremental": "1",
         "url": "r2doesinc.bitsurge.net/OMGB_inc-1.1.0.zip",
-        "addons": 
+        "addons":
         [
             {
             "name": "Google Apps",
@@ -86,7 +86,7 @@
         "product": "OMFGB",
         "incremental": "3",
         "url": "http://r2doesinc.bitsurge.net/OMFGB-1.1.0_evo.zip",
-        "addons": 
+        "addons":
         [
             {
             "name": "Google Apps",
@@ -101,7 +101,7 @@
         "product": "OMFGB",
         "incremental": "3",
         "url": "http://r2doesinc.bitsurge.net/OMFGB-1.1.0_inc.zip",
-        "addons": 
+        "addons":
         [
             {
             "name": "Google Apps",
@@ -131,7 +131,7 @@
         "product": "OMFGB",
         "incremental": "4",
         "url": "http://droid-themes.com/Downloads/OMFGB/OMFGB_inc-1.1.1.zip",
-        "addons": 
+        "addons":
         [
             {
             "name": "Google Apps",
@@ -139,5 +139,5 @@
             }
         ]
     }
-	]
+    ]
 }
