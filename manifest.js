@@ -5,6 +5,51 @@
     "roms":
     [
     {
+        "name": "OMGB 1.1.2",
+        "summary": "Stock Gingerbread build.",
+        "device": "inc",
+        "product": "OMGB",
+        "incremental": "3",
+        "url": "r2doesinc.bitsurge.net/OMGB_inc-1.1.2.zip",
+        "addons":
+        [
+            {
+            "name": "Google Apps",
+            "url": "http://www.r2doesinc.bitsurge.net/GAPPS.zip"
+            }
+        ]
+    },
+    {
+        "name": "OMGB 1.1.2",
+        "summary": "Stock Gingerbread build.",
+        "device": "supersonic",
+        "product": "OMGB",
+        "incremental": "3",
+        "url": "r2doesinc.bitsurge.net/OMGB_supersonic-1.1.2.zip",
+        "addons":
+        [
+            {
+            "name": "Google Apps",
+            "url": "http://www.r2doesinc.bitsurge.net/GAPPS.zip"
+            }
+        ]
+    },
+    {
+        "name": "OMGB 1.1.2",
+        "summary": "Stock Gingerbread build.",
+        "device": "desirec",
+        "product": "OMGB",
+        "incremental": "3",
+        "url": "r2doesinc.bitsurge.net/OMGB_desirec-1.1.2.zip",
+        "addons":
+        [
+            {
+            "name": "Google Apps",
+            "url": "http://www.r2doesinc.bitsurge.net/GAPPS.zip"
+            }
+        ]
+    },
+    {
         "name": "OMGB 1.1.1",
         "summary": "Stock Gingerbread build.",
         "device": "desirec",
