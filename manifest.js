@@ -10,7 +10,10 @@
         "device": "inc",
         "product": "OMGB",
         "incremental": "3",
-        "url": "www.r2doesinc.bitsurge.net/OMGB_inc-1.1.2.zip",
+        "urls": 
+        [
+         "www.r2doesinc.bitsurge.net/OMGB_inc-1.1.2.zip"
+        ],
         "addons":
         [
             {
