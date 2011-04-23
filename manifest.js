@@ -25,7 +25,7 @@
         "device": "supersonic",
         "product": "OMGB",
         "incremental": "3",
-        "url": "www.r2doesinc.bitsurge.net/OMGB_supersonic-1.1.2.zip",
+        "url": "http://www.r2doesinc.bitsurge.net/OMGB_supersonic-1.1.2.zip",
         "addons":
         [
             {
@@ -40,7 +40,7 @@
         "device": "desirec",
         "product": "OMGB",
         "incremental": "3",
-        "url": "www.r2doesinc.bitsurge.net/OMGB_desirec-1.1.2.zip",
+        "url": "http://www.r2doesinc.bitsurge.net/OMGB_desirec-1.1.2.zip",
         "addons":
         [
             {
@@ -55,7 +55,7 @@
         "device": "desirec",
         "product": "OMGB",
         "incremental": "2",
-        "url": "www.r2doesinc.bitsurge.net/OMGB_desirec-1.1.1.zip",
+        "url": "http://www.r2doesinc.bitsurge.net/OMGB_desirec-1.1.1.zip",
         "addons":
         [
             {
@@ -70,7 +70,7 @@
         "device": "inc",
         "product": "OMGB",
         "incremental": "2",
-        "url": "www.r2doesinc.bitsurge.net/OMGB_inc-1.1.1.zip",
+        "url": "http://www.r2doesinc.bitsurge.net/OMGB_inc-1.1.1.zip",
         "addons":
         [
             {
@@ -85,7 +85,7 @@
         "device": "supersonic",
         "product": "OMGB",
         "incremental": "2",
-        "url": "www.r2doesinc.bitsurge.net/OMGB_supersonic-1.1.1.zip",
+        "url": "http://www.r2doesinc.bitsurge.net/OMGB_supersonic-1.1.1.zip",
         "addons":
         [
             {
@@ -100,7 +100,7 @@
         "device": "supersonic",
         "product": "OMGB",
         "incremental": "1",
-        "url": "www.r2doesinc.bitsurge.net/OMGB_supersonic-1.1.0.zip",
+        "url": "http://www.r2doesinc.bitsurge.net/OMGB_supersonic-1.1.0.zip",
         "addons":
         [
             {
@@ -115,7 +115,7 @@
         "device": "inc",
         "product": "OMGB",
         "incremental": "1",
-        "url": "www.r2doesinc.bitsurge.net/OMGB_inc-1.1.0.zip",
+        "url": "http://www.r2doesinc.bitsurge.net/OMGB_inc-1.1.0.zip",
         "addons":
         [
             {
@@ -130,7 +130,7 @@
         "device": "supersonic",
         "product": "OMFGB",
         "incremental": "3",
-        "url": "http://r2doesinc.bitsurge.net/OMFGB-1.1.0_evo.zip",
+        "url": "http://www.r2doesinc.bitsurge.net/OMFGB-1.1.0_evo.zip",
         "addons":
         [
             {
@@ -145,7 +145,7 @@
         "device": "inc",
         "product": "OMFGB",
         "incremental": "3",
-        "url": "http://r2doesinc.bitsurge.net/OMFGB-1.1.0_inc.zip",
+        "url": "http://www.r2doesinc.bitsurge.net/OMFGB-1.1.0_inc.zip",
         "addons":
         [
             {
@@ -160,7 +160,7 @@
         "device": "supersonic",
         "product": "OMFGB",
         "incremental": "4",
-        "url": "http://droid-themes.com/Downloads/OMFGB/OMFGB_supersonic-1.1.1.zip",
+        "url": "http://www.droid-themes.com/Downloads/OMFGB/OMFGB_supersonic-1.1.1.zip",
         "addons": 
         [
             {
@@ -175,7 +175,7 @@
         "device": "inc",
         "product": "OMFGB",
         "incremental": "4",
-        "url": "http://droid-themes.com/Downloads/OMFGB/OMFGB_inc-1.1.1.zip",
+        "url": "http://www.droid-themes.com/Downloads/OMFGB/OMFGB_inc-1.1.1.zip",
         "addons":
         [
             {
