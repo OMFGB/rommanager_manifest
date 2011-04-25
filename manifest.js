@@ -5,6 +5,12 @@
     "roms":
     [
     {
+        "name": "ALPHA - Sensation Build Three",
+        "summary": "Android 2.3 and Sense 3.0. .",
+        "device": "mecha",
+        "url": "http://www.r2doesinc.bitsurge.net/t3hh4xx0r_sensation3.zip"
+    },
+    {
         "name": "OMGB 1.1.2",
         "summary": "Stock Gingerbread build.",
         "device": "inc",
