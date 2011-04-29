@@ -5,6 +5,12 @@
     "roms":
     [
     {
+        "name": "ALPHA - Doubleshot Build One",
+        "summary": "New Android 2.3 and Sense 3.0. Much improved.",
+        "device": "mecha",
+        "url": "http://www.r2doesinc.bitsurge.net/t3hh4xx0r_doubleshot1.zip"
+    },
+    {
         "name": "ALPHA - Sensation Build Three",
         "summary": "Android 2.3 and Sense 3.0. .",
         "device": "mecha",
